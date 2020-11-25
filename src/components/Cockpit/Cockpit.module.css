@@ -1,0 +1,22 @@
+.wrapper{
+
+}
+.wrapper button{
+    padding: 20px;
+    border: 0;
+    color: #fff;
+    cursor:pointer
+}
+.red{
+    background-color: red;
+}
+.red:hover{
+    background-color: salmon;
+}
+
+.green{
+    background-color: green;
+}
+.green:hover{
+    background-color: lightgreen;
+}
